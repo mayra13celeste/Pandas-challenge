@@ -43,3 +43,7 @@ Perform the necessary calculations to create a DataFrame that lists the average 
 
 
 Use codes from ChatGPT due to CSV files not converting correctly. 
+
+Infromation was not pulling correclty at the beginning because of excel opening with his URL link version https://git-lfs.github.com/spec/v1
+oid sha256:68f30dc00b69924dbbe82f74ce8e082504c73b4dcf8314e914a73ca69d8601fa
+size 683
